@@ -1,0 +1,20 @@
+body {
+    background-color: #FFFCF0;
+        color:#0F0E0E;
+    font-family: Menlo, sans-serif;
+    margin: 0;
+}
+
+
+main .layout {
+    width: 100%;
+    max-width: 1000px;
+    min-height: 100vh;
+    margin: 0 auto;
+    padding: 24px;
+    box-sizing: border-box;
+}
+
+li {
+    padding-bottom: 10px;
+}
